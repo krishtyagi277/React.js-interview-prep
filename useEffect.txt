@@ -1,0 +1,9 @@
+Q1: setinterval is not working in useEffect?
+example:
+useEffect(()=>{
+    setInterval(moveSnake, speed)
+    document.onkeydown = onkeydown;
+  },[])
+Ans: https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+     https://stackoverflow.com/questions/53024496/state-not-updating-when-using-react-state-hook-within-setinterval
+
