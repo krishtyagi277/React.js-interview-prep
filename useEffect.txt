@@ -7,3 +7,6 @@ useEffect(()=>{
 Ans: https://overreacted.io/making-setinterval-declarative-with-react-hooks/
      https://stackoverflow.com/questions/53024496/state-not-updating-when-using-react-state-hook-within-setinterval
 
+Q2: What is componentDidMount()?
+Ans: https://reactjs.org/docs/react-component.html#componentdidmount
+
